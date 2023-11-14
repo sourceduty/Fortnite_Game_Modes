@@ -7,7 +7,7 @@
 Listed below are concept Fortnite game modes designed by Sourceduty. These game modes are simple to understand and could be possible to create using Fortnite Creative. Sourceduty is a not focused on Fortnite or game development.
 
 #
-#### Tergeted
+#### Targeted
 
 50 players must kill 1 target player as quickly as possible. Survive as long as possible when you are the target. In the first round, one player will be chosen randomly as the target, all other players must try to kill the target player as quickly as possible. Once a target player has been killed, a different player will be randomly chosen to be targeted.
 
